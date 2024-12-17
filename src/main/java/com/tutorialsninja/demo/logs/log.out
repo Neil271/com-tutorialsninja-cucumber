@@ -1,0 +1,375 @@
+2024-12-16 11:12:91 INFO  HomePage :34 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (559965eef98af407abbdb6e89f7c9e63)] -> link text: Desktops]
+2024-12-16 12:12:840 INFO  HomePage :37 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (433a76194bc90c8435fedf037dca17eb)] -> link text: Desktops]
+2024-12-16 12:12:530 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (1b9bd3c757f00d06e561b49cceef2be3)] -> link text: Desktops]
+2024-12-16 12:12:966 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (c16882a9de5258e1151b43aeba3c88f2)] -> link text: Desktops]
+2024-12-16 12:12:802 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (fd419b738a9b753e0b4475ae941a2beb)] -> link text: Desktops]
+2024-12-16 12:12:543 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (7d51cf48d8c4b0a2b553ab45f44acc1b)] -> link text: Desktops]
+2024-12-16 12:12:968 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (1318d04eb675c5ac64bb445831609dd6)] -> link text: Desktops]
+2024-12-16 12:12:12 INFO  HomePage :44 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2'
+2024-12-16 12:12:553 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (d2374f64b0436ea944f388446a55774c)] -> link text: Desktops]
+2024-12-16 12:12:910 INFO  HomePage :38 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (b7cf274db7a0d6108e8b271f65cfdd19)] -> link text: Desktops]
+2024-12-16 12:12:726 INFO  HomePage :31 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 12:12:753 INFO  HomePage :44 - Desktop Text :[[ChromeDriver: chrome on windows (b7cf274db7a0d6108e8b271f65cfdd19)] -> xpath: //h2[normalize-space()='Desktops']]
+2024-12-16 13:12:905 INFO  HomePage :60 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:247 INFO  HomePage :60 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:564 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (93c27995bcc67022c4fc8315d12448ef)] -> link text: Components]
+2024-12-16 13:12:186 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 13:12:273 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:556 INFO  HomePage :60 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:639 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 13:12:654 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:00 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (5fad7e1c368b90a1644d6612c06a6cf0)] -> link text: Components]
+2024-12-16 13:12:568 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 13:12:592 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 13:12:400 INFO  HomePage :46 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (507be7f38f4c1c0454ae25ffaabf25c8)] -> link text: Desktops]
+2024-12-16 13:12:82 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 13:12:102 INFO  HomePage :52 - Desktop Text :[[ChromeDriver: chrome on windows (507be7f38f4c1c0454ae25ffaabf25c8)] -> xpath: //h2[normalize-space()='Desktops']]
+2024-12-16 13:12:278 INFO  HomePage :27 - Clicking on my account link :[[ChromeDriver: chrome on windows (4fd366a6c439b5f00c385beb3fdaf1cf)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 13:12:287 INFO  HomePage :34 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 13:12:910 INFO  HomePage :21 - Register Text :[[ChromeDriver: chrome on windows (4fd366a6c439b5f00c385beb3fdaf1cf)] -> xpath: //h1[normalize-space()='Register Account']]
+2024-12-16 13:12:461 INFO  HomePage :46 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (a7c05f372c37bb005cea568cc984d486)] -> link text: Desktops]
+2024-12-16 13:12:167 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 13:12:187 INFO  HomePage :52 - Desktop Text :[[ChromeDriver: chrome on windows (a7c05f372c37bb005cea568cc984d486)] -> xpath: //h2[normalize-space()='Desktops']]
+2024-12-16 13:12:75 INFO  HomePage :27 - Clicking on my account link :[[ChromeDriver: chrome on windows (aaefd23f7d36b77b2a6e22e5306d85e3)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 13:12:84 INFO  HomePage :34 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 13:12:536 INFO  HomePage :21 - Login Text :[[ChromeDriver: chrome on windows (aaefd23f7d36b77b2a6e22e5306d85e3)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-16 14:12:664 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:674 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:418 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:526 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:680 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:795 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:980 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:100 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:203 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:293 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:885 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (0dd29bea05ca4730522a932939da6900)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:963 INFO  HomePage :72 - Get the Register successful text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Your Account Has Been Created!']'
+2024-12-16 14:12:684 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (10d2c6ffadac264481b309f12c156ff6)] -> link text: Components]
+2024-12-16 14:12:387 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 14:12:406 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 14:12:659 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:667 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:130 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:243 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:403 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:500 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:680 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:987 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:130 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:245 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:34 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:68 INFO  HomePage :72 - Get the Register successful text :[[ChromeDriver: chrome on windows (c2416a24f3f9b2614b03f00294292034)] -> css selector: div[id='content'] h1]
+2024-12-16 14:12:177 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (7fad6fe45c864a18c00d90074b488aa7)] -> link text: Components]
+2024-12-16 14:12:506 INFO  HomePage :39 - Clicking on selected menu tab[[ChromeDriver: chrome on windows (7fad6fe45c864a18c00d90074b488aa7)] -> link text: Show AllDesktops]
+2024-12-16 14:12:553 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 14:12:747 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:755 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:864 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:986 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:202 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:302 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:438 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:635 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:776 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:909 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:579 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:632 INFO  HomePage :72 - Get the Register successful text :[[ChromeDriver: chrome on windows (fb545f84ab11ee7959f8f8d686c0b57f)] -> css selector: div[id='content'] h1]
+2024-12-16 14:12:652 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (803f351074e42cf578d3c7ddd158d5dc)] -> link text: Components]
+2024-12-16 14:12:361 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 14:12:446 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 14:12:476 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:485 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:395 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:521 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:705 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:807 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:974 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:228 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:395 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:598 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:328 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (51525fb466b47cca937f22feb1855522)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:373 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:382 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:224 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:328 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:485 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:681 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:778 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:915 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:06 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:126 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:168 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:703 INFO  HomePage :153 - click on the continue successful button :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> link text: Continue]
+2024-12-16 14:12:820 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:828 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:722 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 14:12:230 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (ca4927ed6490e5858099ef1d9b5cec75)] -> link text: Continue]
+2024-12-16 14:12:762 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (a8081acd783c48799e433a313c0601ed)] -> link text: Components]
+2024-12-16 14:12:230 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:242 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:77 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:191 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:362 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:503 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:644 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:774 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:878 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:985 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:101 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (c6cceeeca791293f1263589d93b342c3)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:662 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:672 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:972 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 14:12:71 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 14:12:234 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:341 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 14:12:459 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:563 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 14:12:654 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 14:12:788 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@name='agree']]
+2024-12-16 14:12:146 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //input[@value='Continue']]
+2024-12-16 14:12:975 INFO  HomePage :153 - click on the continue successful button :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> link text: Continue]
+2024-12-16 14:12:116 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:121 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:27 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 14:12:632 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (3227127822f4a21b9be497acd68be981)] -> link text: Continue]
+2024-12-16 14:12:561 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:567 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:303 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //input[@id='input-email']]
+2024-12-16 14:12:519 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //input[@id='input-password']]
+2024-12-16 14:12:529 INFO  HomePage :55 - Clicking on login button :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //input[@value='Login']]
+2024-12-16 14:12:672 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 14:12:675 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 14:12:807 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 14:12:290 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (39d73cc9dde179ce5f37714ca65afe04)] -> link text: Continue]
+2024-12-16 14:12:685 INFO  HomePage :67 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (0953666ec289b7701091fa812b90dfcb)] -> link text: Components]
+2024-12-16 18:12:966 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (b7dc0830baadd057d329c04eed59c200)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:976 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:969 INFO  HomePage :65 - Register Text :[[ChromeDriver: chrome on windows (b7dc0830baadd057d329c04eed59c200)] -> xpath: //h1[normalize-space()='Register Account']]
+2024-12-16 18:12:498 INFO  HomePage :46 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (c9d6a13b96a69467949ae4a11753a4ed)] -> link text: Desktops]
+2024-12-16 18:12:506 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 18:12:538 INFO  HomePage :52 - Desktop Text :[[ChromeDriver: chrome on windows (c9d6a13b96a69467949ae4a11753a4ed)] -> xpath: //h2[normalize-space()='Desktops']]
+2024-12-16 18:12:507 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (7510cea7fba34bea3df4f1a7cc21183b)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:516 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:242 INFO  HomePage :33 - Login Text :[[ChromeDriver: chrome on windows (7510cea7fba34bea3df4f1a7cc21183b)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-16 18:12:565 INFO  HomePage :60 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 18:12:21 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 18:12:61 INFO  HomePage :52 - Desktop Text :Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Desktops']'
+2024-12-16 18:12:685 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (6f3beab11f27f26933a5b6d76ba39c60)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:691 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:171 INFO  HomePage :33 - Login Text :[[ChromeDriver: chrome on windows (6f3beab11f27f26933a5b6d76ba39c60)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-16 18:12:17 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (226ff98fcfae2f075306e23e3a0983c9)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:25 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:557 INFO  HomePage :33 - Login Text :[[ChromeDriver: chrome on windows (226ff98fcfae2f075306e23e3a0983c9)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-16 18:12:17 INFO  HomePage :63 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-16 18:12:444 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 18:12:474 INFO  HomePage :54 - Desktop Text :[[ChromeDriver: chrome on windows (d54a338c6ad773c5e5b6108baebd2b1f)] -> css selector: div[id='content'] h2]
+2024-12-16 18:12:390 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:398 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:306 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 18:12:415 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 18:12:576 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-email']]
+2024-12-16 18:12:697 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 18:12:826 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-password']]
+2024-12-16 18:12:938 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 18:12:45 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 18:12:169 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@name='agree']]
+2024-12-16 18:12:761 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (6a2b391e5a68b93a99ecb0be6c6fa539)] -> xpath: //input[@value='Continue']]
+2024-12-16 18:12:703 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:711 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:434 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //input[@id='input-email']]
+2024-12-16 18:12:589 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //input[@id='input-password']]
+2024-12-16 18:12:38 INFO  HomePage :55 - Clicking on login button :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //input[@value='Login']]
+2024-12-16 18:12:204 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:211 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:181 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 18:12:715 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (308dd1814f3d5ec79268bcbb061b3d52)] -> link text: Continue]
+2024-12-16 18:12:367 INFO  HomePage :71 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (f56e042cdb6f810039deb865e9dfa026)] -> link text: Components]
+2024-12-16 18:12:131 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 18:12:150 INFO  HomePage :54 - Desktop Text :[[ChromeDriver: chrome on windows (f56e042cdb6f810039deb865e9dfa026)] -> css selector: div[id='content'] h2]
+2024-12-16 18:12:680 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:689 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:675 INFO  HomePage :81 - enter firstname :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-firstname']]
+2024-12-16 18:12:790 INFO  HomePage :89 - enter firstname :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-lastname']]
+2024-12-16 18:12:948 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-email']]
+2024-12-16 18:12:73 INFO  HomePage :105 - enter telephone :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-telephone']]
+2024-12-16 18:12:286 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-password']]
+2024-12-16 18:12:436 INFO  HomePage :121 - enter confirmPassword :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@id='input-confirm']]
+2024-12-16 18:12:537 INFO  HomePage :129 - click on the Yes radio button :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> css selector: input[value='1'][name='newsletter']]
+2024-12-16 18:12:663 INFO  HomePage :137 - click on privacy checkbox :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@name='agree']]
+2024-12-16 18:12:619 INFO  HomePage :145 - click on the continue button :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //input[@value='Continue']]
+2024-12-16 18:12:101 INFO  HomePage :153 - click on the continue successful button :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> link text: Continue]
+2024-12-16 18:12:292 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:296 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:259 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 18:12:827 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (c18c1567929272cb3ab6093e303c1638)] -> link text: Continue]
+2024-12-16 18:12:323 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:331 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:100 INFO  HomePage :97 - enter email :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //input[@id='input-email']]
+2024-12-16 18:12:224 INFO  HomePage :113 - enter password :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //input[@id='input-password']]
+2024-12-16 18:12:109 INFO  HomePage :55 - Clicking on login button :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //input[@value='Login']]
+2024-12-16 18:12:244 INFO  HomePage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 18:12:248 INFO  HomePage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 18:12:256 INFO  HomePage :55 - Logout Text :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> xpath: //h1[normalize-space()='Account Logout']]
+2024-12-16 18:12:723 INFO  HomePage :63 - Clicking on the continue button :[[ChromeDriver: chrome on windows (425977328ad788af907c0da46ff516d6)] -> link text: Continue]
+2024-12-16 18:12:672 INFO  HomePage :71 - Do mouse hover and click on teh LaptopAndNoteBook menu[[ChromeDriver: chrome on windows (959f24597349b134932769f41def6444)] -> link text: Components]
+2024-12-16 18:12:394 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 18:12:421 INFO  HomePage :54 - Desktop Text :[[ChromeDriver: chrome on windows (959f24597349b134932769f41def6444)] -> css selector: div[id='content'] h2]
+2024-12-16 21:12:940 INFO  HomePage :47 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (74b029d1030051b2f7cf63cb9d124a07)] -> link text: Desktops]
+2024-12-16 21:12:866 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 21:12:615 INFO  CommonElementPage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (8e24dd521c39c01d31b14a8c974acb52)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 21:12:623 INFO  CommonElementPage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 21:12:436 INFO  HomePage :65 - Register Text :[[ChromeDriver: chrome on windows (8e24dd521c39c01d31b14a8c974acb52)] -> xpath: //h1[normalize-space()='Register Account']]
+2024-12-16 21:12:71 INFO  HomePage :47 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (26d67820f764c72cc4ccc034d3249852)] -> link text: Desktops]
+2024-12-16 21:12:23 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 21:12:60 INFO  HomePage :54 - Desktop Text :[[ChromeDriver: chrome on windows (26d67820f764c72cc4ccc034d3249852)] -> css selector: div[id='content'] h2]
+2024-12-16 21:12:815 INFO  HomePage :47 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (1903643ea23796aabd2762ff46e8b512)] -> link text: Desktops]
+2024-12-16 21:12:861 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 21:12:950 INFO  DesktopPage :34 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (1903643ea23796aabd2762ff46e8b512)] -> id: input-sort]
+2024-12-16 21:12:955 INFO  DesktopPage :26 - List of product Names :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//h4
+2024-12-16 21:12:446 INFO  DesktopPage :26 - List of product Names :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//h4
+2024-12-16 21:12:289 INFO  CommonElementPage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (d59e40cac5c3240377b155385432ad2a)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-16 21:12:289 INFO  CommonElementPage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-16 21:12:212 INFO  HomePage :65 - Register Text :[[ChromeDriver: chrome on windows (d59e40cac5c3240377b155385432ad2a)] -> xpath: //h1[normalize-space()='Register Account']]
+2024-12-16 21:12:757 INFO  HomePage :47 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (8f8e1e249447035ef8ed2e2d2ab97a6b)] -> link text: Desktops]
+2024-12-16 21:12:50 INFO  HomePage :39 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-16 21:12:84 INFO  HomePage :54 - Desktop Text :[[ChromeDriver: chrome on windows (8f8e1e249447035ef8ed2e2d2ab97a6b)] -> css selector: div[id='content'] h2]
+2024-12-17 00:12:839 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (9732eea2b8151ea683439f64681fe93a)] -> link text: Desktops]
+2024-12-17 00:12:516 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:357 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (9732eea2b8151ea683439f64681fe93a)] -> id: input-sort]
+2024-12-17 00:12:367 INFO  DesktopPage :30 - List of product Names :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//h4
+2024-12-17 00:12:675 INFO  DesktopPage :30 - List of product Names :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//h4
+2024-12-17 00:12:133 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 00:12:253 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:10 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (d53749e5c867823f36880b97ba4274c2)] -> xpath: //select[@id='input-sort']]
+2024-12-17 00:12:15 INFO  LaptopsAndNotebooksPage :45 - All products name :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//p[2]
+2024-12-17 00:12:79 INFO  LaptopsAndNotebooksPage :45 - All products name :By.xpath: //div[@id='content']//div//div[1]//div[2]//div[1]//p[2]
+2024-12-17 00:12:413 INFO  CommonElementPage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (e452f80f8a1b77700eabf393ce29714f)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-17 00:12:417 INFO  CommonElementPage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-17 00:12:24 INFO  HomePage :65 - Register Text :[[ChromeDriver: chrome on windows (e452f80f8a1b77700eabf393ce29714f)] -> xpath: //h1[normalize-space()='Register Account']]
+2024-12-17 00:12:236 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (044f64f7bb1a2dcb7802747da225a542)] -> link text: Desktops]
+2024-12-17 00:12:874 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:896 INFO  HomePage :62 - Desktop Text :[[ChromeDriver: chrome on windows (044f64f7bb1a2dcb7802747da225a542)] -> css selector: div[id='content'] h2]
+2024-12-17 00:12:312 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (7c557ab1c790f63dae92061222e85ad6)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:36 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (7c557ab1c790f63dae92061222e85ad6)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:269 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (7c557ab1c790f63dae92061222e85ad6)] -> link text: Desktops]
+2024-12-17 00:12:32 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:778 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (9c051de4725cc3b769b9062ecb91f174)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:436 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (9c051de4725cc3b769b9062ecb91f174)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:609 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (9c051de4725cc3b769b9062ecb91f174)] -> link text: Desktops]
+2024-12-17 00:12:371 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:51 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (b0ec0ac3d9c778ac43242812714141a7)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:763 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (b0ec0ac3d9c778ac43242812714141a7)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:933 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (b0ec0ac3d9c778ac43242812714141a7)] -> link text: Desktops]
+2024-12-17 00:12:529 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:93 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (cc8a69597840ad3ab44c901de50e65f1)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:805 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (cc8a69597840ad3ab44c901de50e65f1)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:31 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (cc8a69597840ad3ab44c901de50e65f1)] -> link text: Desktops]
+2024-12-17 00:12:424 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (8c811ecb14876fbf7883dd72efd80d5b)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:223 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (8c811ecb14876fbf7883dd72efd80d5b)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:391 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (8c811ecb14876fbf7883dd72efd80d5b)] -> link text: Desktops]
+2024-12-17 00:12:210 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:13 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (8c811ecb14876fbf7883dd72efd80d5b)] -> id: input-sort]
+2024-12-17 00:12:687 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (8edd0370ffd9d478fe86d8eb201698b6)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:496 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (8edd0370ffd9d478fe86d8eb201698b6)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:672 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (8edd0370ffd9d478fe86d8eb201698b6)] -> link text: Desktops]
+2024-12-17 00:12:434 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:275 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (8edd0370ffd9d478fe86d8eb201698b6)] -> id: input-sort]
+2024-12-17 00:12:684 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (4799b6cd563d3da746b4b44f2355445b)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:291 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (4799b6cd563d3da746b4b44f2355445b)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:520 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (4799b6cd563d3da746b4b44f2355445b)] -> link text: Desktops]
+2024-12-17 00:12:273 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:51 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (4799b6cd563d3da746b4b44f2355445b)] -> id: input-sort]
+2024-12-17 00:12:414 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (87186cc0efc5f2b494fb65ce3dd0caa6)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:108 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (87186cc0efc5f2b494fb65ce3dd0caa6)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:264 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (87186cc0efc5f2b494fb65ce3dd0caa6)] -> link text: Desktops]
+2024-12-17 00:12:968 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:793 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (87186cc0efc5f2b494fb65ce3dd0caa6)] -> id: input-sort]
+2024-12-17 00:12:203 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (e99ae8c1616ea5fc7fc65bfbedc1c002)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:791 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (e99ae8c1616ea5fc7fc65bfbedc1c002)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:25 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (e99ae8c1616ea5fc7fc65bfbedc1c002)] -> link text: Desktops]
+2024-12-17 00:12:766 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:542 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (e99ae8c1616ea5fc7fc65bfbedc1c002)] -> id: input-sort]
+2024-12-17 00:12:972 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (28245c4adc54ad361f6b75235f822bf4)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 00:12:572 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (28245c4adc54ad361f6b75235f822bf4)] -> css selector: button[name='GBP']]
+2024-12-17 00:12:804 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (28245c4adc54ad361f6b75235f822bf4)] -> link text: Desktops]
+2024-12-17 00:12:442 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:239 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (28245c4adc54ad361f6b75235f822bf4)] -> id: input-sort]
+2024-12-17 00:12:813 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 00:12:946 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:701 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (a75426b930799074902320dc9ebb3e18)] -> xpath: //select[@id='input-sort']]
+2024-12-17 00:12:739 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (a75426b930799074902320dc9ebb3e18)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 00:12:856 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (a75426b930799074902320dc9ebb3e18)] -> xpath: //button[@id='button-cart']]
+2024-12-17 00:12:98 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (a75426b930799074902320dc9ebb3e18)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 00:12:505 INFO  CommonElementPage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (00c5fa3cf769c1878eb042264c0cac6c)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-17 00:12:509 INFO  CommonElementPage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-17 00:12:944 INFO  HomePage :33 - Login Text :[[ChromeDriver: chrome on windows (00c5fa3cf769c1878eb042264c0cac6c)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-17 00:12:167 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 00:12:331 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 00:12:343 INFO  HomePage :62 - Desktop Text :[[ChromeDriver: chrome on windows (d50f847e22dc531d36ba94f67544688c)] -> css selector: div[id='content'] h2]
+2024-12-17 23:12:637 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:746 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:558 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (a89bb8209a8536cdb74544bf1960bee3)] -> xpath: //select[@id='input-sort']]
+2024-12-17 23:12:904 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (a89bb8209a8536cdb74544bf1960bee3)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 23:12:39 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (a89bb8209a8536cdb74544bf1960bee3)] -> xpath: //button[@id='button-cart']]
+2024-12-17 23:12:309 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (a89bb8209a8536cdb74544bf1960bee3)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:754 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (9c3817592708e43ab3d3d4af2c01246c)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:403 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (9c3817592708e43ab3d3d4af2c01246c)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:630 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (9c3817592708e43ab3d3d4af2c01246c)] -> link text: Desktops]
+2024-12-17 23:12:784 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:568 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (9c3817592708e43ab3d3d4af2c01246c)] -> id: input-sort]
+2024-12-17 23:12:528 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (ee6d9ef628f47df8f09a3154681d9b24)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:121 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (ee6d9ef628f47df8f09a3154681d9b24)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:352 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (ee6d9ef628f47df8f09a3154681d9b24)] -> link text: Desktops]
+2024-12-17 23:12:126 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:22 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (ee6d9ef628f47df8f09a3154681d9b24)] -> id: input-sort]
+2024-12-17 23:12:940 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (9f4aa7c437c2de14bb1dc5487498ec49)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:905 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (9f4aa7c437c2de14bb1dc5487498ec49)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:67 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (9f4aa7c437c2de14bb1dc5487498ec49)] -> link text: Desktops]
+2024-12-17 23:12:44 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:783 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (9f4aa7c437c2de14bb1dc5487498ec49)] -> id: input-sort]
+2024-12-17 23:12:551 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (f9dec6e455549e7f3d867964b89d4b01)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:175 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (f9dec6e455549e7f3d867964b89d4b01)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:421 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (f9dec6e455549e7f3d867964b89d4b01)] -> link text: Desktops]
+2024-12-17 23:12:163 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:15 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (f9dec6e455549e7f3d867964b89d4b01)] -> id: input-sort]
+2024-12-17 23:12:635 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (0ac449f68791e890c4cc2f5b283407d6)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:231 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (0ac449f68791e890c4cc2f5b283407d6)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:464 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (0ac449f68791e890c4cc2f5b283407d6)] -> link text: Desktops]
+2024-12-17 23:12:206 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:17 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (0ac449f68791e890c4cc2f5b283407d6)] -> id: input-sort]
+2024-12-17 23:12:128 INFO  HomePage :87 - Do mouse hover and click on the Currency Tab :[[ChromeDriver: chrome on windows (a3036e7594176afd0deac6a37061a423)] -> xpath: //button[@class='btn btn-link dropdown-toggle']]
+2024-12-17 23:12:916 INFO  HomePage :95 - Do mouse hover and click on the pound currency :[[ChromeDriver: chrome on windows (a3036e7594176afd0deac6a37061a423)] -> css selector: button[name='GBP']]
+2024-12-17 23:12:127 INFO  HomePage :55 - Do mouse hover and click on the desktop menu[[ChromeDriver: chrome on windows (a3036e7594176afd0deac6a37061a423)] -> link text: Desktops]
+2024-12-17 23:12:480 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:261 INFO  DesktopPage :38 - Sort the data in selected filter :[[ChromeDriver: chrome on windows (a3036e7594176afd0deac6a37061a423)] -> id: input-sort]
+2024-12-17 23:12:166 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:595 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:339 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (c3b0254b1bcced27ff63880db8bb360a)] -> xpath: //select[@id='input-sort']]
+2024-12-17 23:12:390 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (c3b0254b1bcced27ff63880db8bb360a)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 23:12:500 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (c3b0254b1bcced27ff63880db8bb360a)] -> xpath: //button[@id='button-cart']]
+2024-12-17 23:12:727 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (c3b0254b1bcced27ff63880db8bb360a)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:135 INFO  CommonElementPage :35 - Clicking on my account link :[[ChromeDriver: chrome on windows (a2dc0637d5cb922b4eac3940a977ce48)] -> xpath: //span[normalize-space()='My Account']]
+2024-12-17 23:12:137 INFO  CommonElementPage :42 - Select Option from my account link :By.xpath: //li[@class='dropdown open']//li/a
+2024-12-17 23:12:553 INFO  HomePage :33 - Login Text :[[ChromeDriver: chrome on windows (a2dc0637d5cb922b4eac3940a977ce48)] -> xpath: //h2[normalize-space()='Returning Customer']]
+2024-12-17 23:12:880 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:140 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:167 INFO  HomePage :62 - Desktop Text :[[ChromeDriver: chrome on windows (9ec741d58053216f8a13994549c50764)] -> css selector: div[id='content'] h2]
+2024-12-17 23:12:175 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:397 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:210 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (ec79f6b32bc71372a67ebe913edab6b3)] -> xpath: //select[@id='input-sort']]
+2024-12-17 23:12:165 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (ec79f6b32bc71372a67ebe913edab6b3)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 23:12:305 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (ec79f6b32bc71372a67ebe913edab6b3)] -> css selector: #button-cart]
+2024-12-17 23:12:556 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (ec79f6b32bc71372a67ebe913edab6b3)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:270 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:520 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:319 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (63b13d9627c53d0cde086c623bd64016)] -> xpath: //select[@id='input-sort']]
+2024-12-17 23:12:809 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (63b13d9627c53d0cde086c623bd64016)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 23:12:974 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (63b13d9627c53d0cde086c623bd64016)] -> css selector: #button-cart]
+2024-12-17 23:12:199 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (63b13d9627c53d0cde086c623bd64016)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
+2024-12-17 23:12:729 INFO  HomePage :71 - Do mouse hover and click on the LaptopAndNoteBook menu :Proxy element for: DefaultElementLocator 'By.cssSelector: div[id='content'] h2'
+2024-12-17 23:12:814 INFO  HomePage :47 - Clicking on selected menu tabProxy element for: DefaultElementLocator 'By.linkText: Show AllDesktops'
+2024-12-17 23:12:595 INFO  LaptopsAndNotebooksPage :32 - Sort the list of product :[[ChromeDriver: chrome on windows (9e25dec8cb8b57db788fa8a3158c0fd9)] -> xpath: //select[@id='input-sort']]
+2024-12-17 23:12:701 INFO  LaptopsAndNotebooksPage :39 - Clicking on macBook product :[[ChromeDriver: chrome on windows (9e25dec8cb8b57db788fa8a3158c0fd9)] -> xpath: //a[normalize-space()='MacBook']]
+2024-12-17 23:12:865 INFO  ProductPage :52 - click on the add to cart button :[[ChromeDriver: chrome on windows (9e25dec8cb8b57db788fa8a3158c0fd9)] -> css selector: #button-cart]
+2024-12-17 23:12:86 INFO  ProductPage :59 - Shopping cart message :[[ChromeDriver: chrome on windows (9e25dec8cb8b57db788fa8a3158c0fd9)] -> xpath: //div[@class='alert alert-success alert-dismissible']]
